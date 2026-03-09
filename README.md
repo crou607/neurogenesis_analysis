@@ -1,0 +1,1 @@
+This repository includes the code used for the analysis in the publication titled "Notch mediated lateral inhibition is shaped by morphological differences that bias cells toward signal-sending or receiving roles"
