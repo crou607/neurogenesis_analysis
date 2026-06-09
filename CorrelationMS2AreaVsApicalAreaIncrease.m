@@ -3,12 +3,7 @@ clear all
 
 %% load isotropic data
 load("combined_data_for_correlationsNEW.mat")
-% for the last 18 columns dt = 30s, for all the rest dt = 25s
 
-% select which population to analyse: 1 for [1:end-18], 2 for
-% [end-18+1:end]
-
-% population = 1;
 maxLagMinutes = 23;
 analysis_number = 3;
 % 1 is NB area vs SC Intensity
