@@ -1,7 +1,7 @@
 close all
 clear all
 
-%% load isotropic data
+%% load data
 load("combined_data_for_correlationsNEW.mat")
 
 maxLagMinutes = 23;
